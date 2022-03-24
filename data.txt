@@ -1,0 +1,14 @@
+{
+	"email": "daniel@getarrays.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle": "JavaScript",
+	"name": "Daniel Craig",
+	"phone": "4570090322"
+}
+{
+	"email": "efren@getarrays.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+	"jobTitle": "Developer",
+	"name": "Efrén Palop",
+	"phone": "610399099"
+}
